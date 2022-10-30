@@ -1,7 +1,7 @@
 import React from "react";
 
 const Bot = () => {
-  return <div>Bot</div>;
+  return <div></div>;
 };
 
 export default Bot;
